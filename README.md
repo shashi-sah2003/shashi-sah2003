@@ -6,7 +6,7 @@
    
 2. Resumer: [Tailor resume based on job description](https://res-umer.tech)
   
-3. AI agent for DTU: [UI built on Nextjs, an AI agent for query almost every details regarding DTU](https://github.com/shashi-sah2003/chatbot)
+3. AI agent for DTU: [An AI agent for query almost every details regarding DTU](https://github.com/shashi-sah2003/chatbot)
    
 4. Coinnect: [An innovative solution that optimizes cross-border payments by analyzing and recommending the most cost-effective payment methods.](https://github.com/shashi-sah2003/Coinnect-backend)
    
